@@ -1,0 +1,10 @@
+Flask
+python-dotenv
+spacy
+trafilatura
+newspaper3k
+fpdf
+matplotlib
+wordcloud
+textblob
+groq
